@@ -17,6 +17,8 @@ It is the default package which ensure the functioning of desktop applications.<
 <strong>JSP (Java Server Page):</strong> The JSP in conjonction with the Servlet which play a controller role while itself update the View by generating the HTML page dynamically<br/>
 <strong>Maven:</strong> Give the possibility to automate some tasks (compilation, unit test and app deployment), handle dependency regarding librairies, generating documentation ....<br/>
 <strong>Container:</strong> A virtual environment in whome, for example an application can be executed (ie Docker). Each containers can have a specific role.<br/>
+<strong>Thread:</strong> <br/> An execution unit from a program that work in an autonomous manner in parallel to another thread and are part of a limited pool. There are parents and children threads.
+
 
 
 
